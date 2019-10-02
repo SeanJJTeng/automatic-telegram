@@ -1,6 +1,5 @@
 # automatic-telegram
-How do I use this.net
-
+Projects
 
 ---------Web scrapper using BeautifulSoup4
 web scrapper for prices, product name /desc
